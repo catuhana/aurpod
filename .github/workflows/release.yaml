@@ -17,7 +17,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: latest
-          cache: npm
 
       - name: Log in to ghcr.io
         uses: redhat-actions/podman-login@v1
