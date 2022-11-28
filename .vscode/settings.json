@@ -8,7 +8,7 @@
       "strings": true
     }
   },
-  "[markdown][json][jsonc]": {
+  "[markdown][json][jsonc][yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
